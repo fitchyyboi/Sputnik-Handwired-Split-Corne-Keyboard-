@@ -125,7 +125,7 @@ This build supports ZMK Studio for convenient keymap adjustments:
 
 ## Case and Keycaps (3D Printing)
 You have ready‑to‑print 3MF files and editable STEP files:
-  - Case: [MakerWorld]([<Ready to print files set/Complete case.3mf>](https://makerworld.com/en/models/1836586)
+  - Case: [MakerWorld](https://makerworld.com/en/models/1836586)
   - Keycaps: [MakerWorld](https://makerworld.com/en/models/1803145)
 
 
