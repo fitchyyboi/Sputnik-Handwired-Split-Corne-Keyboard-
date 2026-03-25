@@ -7,7 +7,7 @@ Affordable, handwired split keyboard build (~€20) using a Pro Micro NRF52840 (
 - Supports [ZMK Studio](https://zmk.dev/docs/features/studio) for keymap configuration
 - Prebuilt firmware provided for the reference wiring
 - 3D‑printed case and keycaps with ready‑to‑print 3MF files and editable STEP files
-  - Case: [MakerWorld]([<Ready to print files set/Complete case.3mf>](https://makerworld.com/en/models/1836586)
+  - Case: [MakerWorld](https://makerworld.com/en/models/1836586)
   - Keycaps: [MakerWorld](https://makerworld.com/en/models/1803145)
 
 ---
