@@ -7,6 +7,8 @@ Affordable, handwired split keyboard build (~€20) using a Pro Micro NRF52840 (
 - Supports [ZMK Studio](https://zmk.dev/docs/features/studio) for keymap configuration
 - Prebuilt firmware provided for the reference wiring
 - 3D‑printed case and keycaps with ready‑to‑print 3MF files and editable STEP files
+  - Case: [MakerWorld]([<Ready to print files set/Complete case.3mf>](https://makerworld.com/en/models/1836586)
+  - Keycaps: [MakerWorld](https://makerworld.com/en/models/1803145)
 
 ---
 
@@ -123,13 +125,9 @@ This build supports ZMK Studio for convenient keymap adjustments:
 
 ## Case and Keycaps (3D Printing)
 You have ready‑to‑print 3MF files and editable STEP files:
-- Ready‑to‑print 3MF files:
-  - Case: [Ready to print files set/Complete case.3mf](<Ready to print files set/Complete case.3mf>)
-  - Keycaps: [Ready to print files set/Keycaps set.3mf](<Ready to print files set/Keycaps set.3mf>)
-- STEP files (for editing):
-  - Case parts: [`case step files/`](<case step files/>)
-  - Keycaps: [`keycaps step files/`](<keycaps step files/>)
-- Individual keycap 3MFs are available in [`keycaps 3mf/`](<keycaps 3mf/>)
+  - Case: [MakerWorld]([<Ready to print files set/Complete case.3mf>](https://makerworld.com/en/models/1836586)
+  - Keycaps: [MakerWorld](https://makerworld.com/en/models/1803145)
+
 
 ## Battery
 - You can use repurposed vape batteries, or any battery that fits the plate cavity.
