@@ -8,7 +8,7 @@ jobs:
   build:
     uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@main
     with:
-      config_path: .
+      config_path: firmware/zmk-config
     strategy:
       matrix:
         include:
