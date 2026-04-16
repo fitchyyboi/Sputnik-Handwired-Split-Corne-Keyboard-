@@ -17,4 +17,3 @@ jobs:
             cmake-args: -DSHIELD_ROOT=$GITHUB_WORKSPACE/firmware/zmk-config
           - board: nice_nano_v2
             shield: corne_hw_right
-            cmake-args: -DSHIELD_ROOT=$GITHUB_WORKSPACE/firmware/zmk-config
